@@ -29,7 +29,7 @@ function setup () {
   main_canvas.parent('canvasContainer');
 
   // with no animation, redrawing the screen is not necessary
-  noLoop();
+  // noLoop();
 }
 
 function mouseClicked() {
