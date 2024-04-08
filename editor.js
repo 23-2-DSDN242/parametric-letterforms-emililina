@@ -40,7 +40,7 @@ let main_canvas = null;
 const canvasWidth = 960;
 const canvasHeight = 500;
 
-let debugBox = false;
+let debugBox = true;
 
 function setup () {
   // create the drawing canvas, save the canvas element

@@ -2,7 +2,9 @@ const alphabet = {
   "default": {
     "size": 40,
     "offsetx": 0,
-    "offsety": 0
+    "offsety": 0,
+    "AplatformH": 10,
+    "BplatformH": 120
   },
   "A": {
     "size": 40,
